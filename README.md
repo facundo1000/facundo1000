@@ -42,11 +42,6 @@ In my repos you'll find projects with this..
 <img height=65px src="https://img.icons8.com/ios-glyphs/2x/github-2.png"> 
 </td>
 
-<td align="center" width="20%">
-<span><b><center>Bash</center></b></span> 
-<img height=65px src="https://img.icons8.com/bubbles/2x/console.png"> 
-</td>
-
 <tr valign="top">
 <td align="center" width="20%">
 <span><b><center>SQL</center></b></span> 
