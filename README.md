@@ -15,7 +15,7 @@ Hi, My name is Facundo Martinez. I'm from Argentina. I am a Computer Science Tec
 * Learning Kubernetes
 * 🔜
 
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=facundo1000)](https://github.com/anuraghazra/github-readme-stats)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=facundo1000&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 In my repos you'll find projects with this..  
 
