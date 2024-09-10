@@ -10,7 +10,7 @@
 Hi, My name is Facundo Martinez. I'm from Argentina. I am a Computer Science Tech college student. I want to become a Fullstack Java Developer. 📚📈🔬, and I'm also a pasionate developer, i love creating things and learning during the process of creation 🤩 🎈.  
 
 ### 💼  Things that I'm currently working on: 
-* Learning Front-End Web: Angular
+* Learning Front-End Web: Astro & React
 * Perfection my use of Microservices Architecture
 * Learning Kubernetes
 * 🔜
